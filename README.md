@@ -1,28 +1,10 @@
-== README
+♫ Rails Music ♫
+======================
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+A Musical Rails Application of Learning and Good Times
+----------------------------------
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+The purpose of this application is to help those who are so inlined, to learn music theory.  
+
+This site is not live yet, but will be pushed to Heroku once I feel like it is useful enough to take up server space.
