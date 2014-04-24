@@ -14,6 +14,9 @@
 //= require jquery_ujs
 //= require foundation
 //= require turbolinks
-//= require_tree .
+//= require welcome
+//= require study
+//= require modes
+//= require keys
 
 $(function(){ $(document).foundation(); });
