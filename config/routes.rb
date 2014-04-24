@@ -1,56 +1,18 @@
 Musicapp::Application.routes.draw do
-  # The priority is based upon order of creation: first created -> highest priority.
-  # See how all your routes lay out with "rake routes".
-
-  # You can have the root of your site routed with "root"
   root 'welcome#index'
-
-  # Example of regular route:
-  #   get 'products/:id' => 'catalog#view'
-
-  # Example of named route that can be invoked with purchase_url(id: product.id)
-  #   get 'products/:id/purchase' => 'catalog#purchase', as: :purchase
-
-  # Example resource route (maps HTTP verbs to controller actions automatically):
-  #   resources :products
-
-  # Example resource route with options:
-  #   resources :products do
-  #     member do
-  #       get 'short'
-  #       post 'toggle'
-  #     end
-  #
-  #     collection do
-  #       get 'sold'
-  #     end
-  #   end
-
-  # Example resource route with sub-resources:
-  #   resources :products do
-  #     resources :comments, :sales
-  #     resource :seller
-  #   end
-
-  # Example resource route with more complex sub-resources:
-  #   resources :products do
-  #     resources :comments
-  #     resources :sales do
-  #       get 'recent', on: :collection
-  #     end
-  #   end
-
-  # Example resource route with concerns:
-  #   concern :toggleable do
-  #     post 'toggle'
-  #   end
-  #   resources :posts, concerns: :toggleable
-  #   resources :photos, concerns: :toggleable
-
-  # Example resource route within a namespace:
-  #   namespace :admin do
-  #     # Directs /admin/products/* to Admin::ProductsController
-  #     # (app/controllers/admin/products_controller.rb)
-  #     resources :products
-  #   end
+  get 'study/keys'
+  get 'study/modes'
+  get 'study/tabs'
 end
+# // last night I dreamt that I went skydiving a few times
+# // I kept doing it because it was so much fun (much less terrifying that in real life)
+# // I kept climbing up to the top of a giant tower and doing it again
+# // even when the jump coach (or whatever you call them) was not there
+# // at one point i went to the top of the tower with andy and daniel and told them id race them down (they were going to climb back down because they were afraid to jump)
+# // I became concerned about the pack I was jumping with and decided not to do it
+# // I looked through the videos (apparently they would take videos of everyones jump; helmetcam status)
+# // and saw that sara had done it
+# // i didnt have any videos because I had been jumping without the attendant, so nobody had set up the videos
+# // I watched saras video and saw where she landed
+# // i think i called here and told her i saw her jump
+# // i refrained from telling her that i had jumped 2-3 times that day and probably 7 times that week

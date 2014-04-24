@@ -1,10 +1,12 @@
 ♫ Rails Music ♫
 ======================
 
-A Musical Rails Application of Learning and Good Times
+Music on Rails
 ----------------------------------
 
 
-The purpose of this application is to help those who are so inlined, to learn music theory.  
+The purpose of this application is to help guitar players learn music theory.  
 
-This site is not live yet, but will be pushed to Heroku once I feel like it is useful enough to take up server space.
+This site is not live yet, but will be pushed to Heroku very soon.
+
+♫ Stay tuned....

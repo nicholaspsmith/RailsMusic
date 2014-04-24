@@ -14,6 +14,10 @@
 //= require jquery_ujs
 //= require foundation
 //= require turbolinks
-//= require_tree .
+//= require vendor/MIDI.loadplugin
+//= require welcome
+//= require study
+//= require modes
+//= require keys
 
 $(function(){ $(document).foundation(); });
